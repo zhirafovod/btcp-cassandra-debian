@@ -1,0 +1,2 @@
+files/solo.rb var/chef-solo/
+files/btcp-cassandra.json var/chef-solo/
